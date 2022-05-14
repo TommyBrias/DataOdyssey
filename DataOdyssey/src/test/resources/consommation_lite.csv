@@ -1,0 +1,10 @@
+Date - Heure;Date;Heure;Code INSEE région;Région;Consommation brute gaz (MW PCS 0°C) - GRTgaz;Statut - GRTgaz;Consommation brute gaz (MW PCS 0°C) - Teréga;Statut - Teréga;Consommation brute gaz totale (MW PCS 0°C);Consommation brute électricité (MW) - RTE;Statut - RTE;Consommation brute totale (MW)
+2013-04-30T01:00:00+02:00;2013-04-30;01:00;32;Hauts-de-France;5989;Définitif;;;5989;5761;Définitif;11750
+2013-04-30T01:00:00+02:00;2013-04-30;01:00;75;Nouvelle-Aquitaine;1390;Définitif;1307;Définitif;2697;4811;Définitif;7508
+2013-04-30T01:00:00+02:00;2013-04-30;01:00;76;Occitanie;605;Définitif;1659;Définitif;2264;4577;Définitif;6841
+2013-04-30T01:00:00+02:00;2013-04-30;01:00;84;Auvergne-Rhône-Alpes;4995;Définitif;21;Définitif;5016;7205;Définitif;12221
+2013-04-30T01:30:00+02:00;2013-04-30;01:30;24;Centre-Val de Loire;;;;;;2095;Définitif;
+2013-04-30T01:30:00+02:00;2013-04-30;01:30;52;Pays de la Loire;;;;;;2991;Définitif;
+2013-04-30T01:30:00+02:00;2013-04-30;01:30;53;Bretagne;;;;;;2415;Définitif;
+2013-04-30T01:30:00+02:00;2013-04-30;01:30;76;Occitanie;;;;;;4466;Définitif;
+2013-04-30T01:30:00+02:00;2013-04-30;01:30;84;Auvergne-Rhône-Alpes;;;;;;7154;Définitif;
